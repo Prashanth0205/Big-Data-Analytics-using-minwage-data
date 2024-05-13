@@ -1,14 +1,11 @@
-# Big-Data-Analytics-using-minwage-data
+# Minimum Wage Analysis in the United States using Apache Spark 
 
-1) Doing time series analysis for SMW of each state from 1968 - 2020 
-2) Do SMW % increase Year by Year for each state 
-3) Find state having max SMW for all years 
-4) Comparing SMW average(1968-2020) for all states 
-5) Compare SMW and FMW year by Year for a given state to check states condition in that particular year 
-6) Plot Federal Mimimum wage year By Year 
-7) Compute Effective Minimum wage by finding maximun of SMW and FMW for all stattes for all years
-8) Computing inflation % change between a year and 2020 by dividing SMW2020 with EMW
-9) Change in EMW to change in Average CPI and check if inflation need is being met 
-10) Compare DOL Low and DOL high and find if a given state had two or more different min wages 
-9) Compare DOL Low and DOL Low 2020
-10) Compare DOL High and DOL High 2020
+This Big data analysis project aimed at providing comprehensive insights into minimum wage dynamics across different states and over time. Leveraging Apache Spark and Scala, this project offers a robust framework for processing and analyzing minimum wage data extracted from diverse sources.
+
+Pipeline: 
+1. Data Processing: The project utilizes Apache Spark to efficiently process large volumes of minimum wage data.
+2. Mean Wage Computation: FairWage computes the mean minimum wage by state, offering insights into regional variations.
+3. Inflation Analysis: Analyzing inflation rates allows for understanding the real purchasing power of minimum wages.
+4. Comparison with DOL Data: FairWage compares minimum wage data with Department of Labor (DOL) reported wages, providing validation and additional context.
+5. State-Level Insights: Users can delve into state-specific trends and variations in minimum wage policies and their impacts.
+
