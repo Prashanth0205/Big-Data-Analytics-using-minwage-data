@@ -9,3 +9,6 @@ Pipeline:
 4. Comparison with DOL Data: FairWage compares minimum wage data with Department of Labor (DOL) reported wages, providing validation and additional context.
 5. State-Level Insights: Users can delve into state-specific trends and variations in minimum wage policies and their impacts.
 
+## Dataset
+The minimum wage dataset used in this project can be found [here](minwagedata.csv).
+
