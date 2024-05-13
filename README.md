@@ -12,3 +12,7 @@ Pipeline:
 ## Dataset
 The minimum wage dataset used in this project can be found [here](minwagedata.csv).
 
+## Code
+The Scala code used for analyzing the minimum wage data can be found in the file [MinimumWage_scala.sc](MinimumWage_scala.sc).
+
+
